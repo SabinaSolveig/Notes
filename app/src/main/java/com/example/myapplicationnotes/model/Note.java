@@ -7,7 +7,7 @@ import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
-@Entity
+@Entity(tableName = "Note")
 public class Note implements Parcelable {
 
     @PrimaryKey(autoGenerate = true)

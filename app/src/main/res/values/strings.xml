@@ -2,7 +2,7 @@
     <string name="app_name">My Application Notes</string>
     <string name="action_settings">Settings</string>
     <string name="note_text">Введите текст заметки</string>
-
+    <string name="note_details_title">Заметка</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
