@@ -1,4 +1,4 @@
-package com.example.myapplicationnotes;
+package com.example.myapplicationnotes.screens.main;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -11,6 +11,8 @@ import androidx.navigation.fragment.NavHostFragment;
 import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.myapplicationnotes.R;
 
 public class fragment_notes extends Fragment {
 

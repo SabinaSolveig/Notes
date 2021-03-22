@@ -5,7 +5,7 @@
 
     <fragment
         android:id="@+id/list"
-        android:name="com.example.myapplicationnotes.fragment_notes"
+        android:name="com.example.myapplicationnotes.screens.main.fragment_notes"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

@@ -3,6 +3,7 @@ package com.example.myapplicationnotes.screens.main;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.ViewModel;
 
+
 import com.example.myapplicationnotes.App;
 import com.example.myapplicationnotes.model.Note;
 
